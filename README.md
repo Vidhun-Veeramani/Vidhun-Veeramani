@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vidhun
 - 👀 I’m a Frontend web developer
-- 🌱 I’m currently Working on React JS
+- 🌱 I’m currently Working on React JS & React native
 
 
 <!---
